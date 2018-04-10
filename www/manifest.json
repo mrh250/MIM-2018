@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
   "name": "Ionic Conference",
   "short_name": "Ionic Conf",
@@ -10,4 +11,18 @@
   }],
   "background_color": "#387ef5",
   "theme_color": "#387ef5"
+=======
+{
+  "name": "Ionic Conference",
+  "short_name": "Ionic Conf",
+  "start_url": "index.html",
+  "display": "standalone",
+  "icons": [{
+    "src": "assets/img/appicon.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }],
+  "background_color": "#387ef5",
+  "theme_color": "#387ef5"
+>>>>>>> f350ab144518c0a061a93df3e6c24ce7be28c9c6
 }
